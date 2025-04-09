@@ -54,5 +54,5 @@ We welcome contributions! If you’d like to help improve or expand this project
 
 ## 📬 Contact
 
-For feedback, questions, or collaboration opportunities, feel free to [contact](mailto:leapdeck1@gmail.com)
+For feedback, questions, or collaboration opportunities, feel free to [message](mailto:leapdeck1@gmail.com) for assistance.
 
