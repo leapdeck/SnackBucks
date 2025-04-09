@@ -37,7 +37,7 @@ See at a glance how your local prices stack up against those around the world.
 
 ---
 
-## Download Android/iOS application
+## Download for iOS
 
 <p>
   <a href="https://apps.apple.com/app/id1495796682">
