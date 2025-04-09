@@ -44,8 +44,10 @@ See at a glance how your local prices stack up against those around the world.
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
 </p>
+
 ---
-# License
+
+## License
 
 SnackBucks is under the MIT license. See the accompanying [LICENSE](LICENSE) for more information.
 
