@@ -36,13 +36,9 @@ See at a glance how your local prices stack up against those around the world.
 - **Researchers & Economists**: Analyze food price trends across global markets.
 
 ---
+# License
 
-## 📦 Coming Soon
-
-- Historical price visualizations  
-- Export data to CSV  
-- Real-time market alerts  
-- API access for developers
+SnackBucks is under the MIT license. See the accompanying [LICENSE](LICENSE) for more information.
 
 ---
 
