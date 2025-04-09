@@ -30,8 +30,7 @@ See at a glance how your local prices stack up against those around the world.
 
 ## 🛠 Use Cases
 
-- **Grocery Shoppers**: Find the best value for your ingredients, locally or globally.  
-- **Restaurants & Food Businesses**: Make smarter sourcing decisions and optimize your supply chain.  
+- **Grocery Shoppers**: Compare prices for your ingredients, locally or globally.  
 - **Travelers & Digital Nomads**: Budget your meals better by understanding regional food costs.  
 - **Researchers & Economists**: Analyze food price trends across global markets.
 
