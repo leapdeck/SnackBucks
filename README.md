@@ -17,9 +17,6 @@ Explore international markets to discover where your favorite ingredients are mo
 ### 💱 Switch Between Currencies  
 Effortlessly switch between currencies for accurate, real-time global price comparisons.
 
-### 🧮 Automatic Currency Conversion  
-Built-in currency conversion ensures price data is always up to date and accurate across different countries.
-
 ### 🔍 Sort Prices Effortlessly  
 Sort by cost or country to instantly find the best deals—no matter where you are.
 
@@ -54,7 +51,7 @@ SnackBucks is under the MIT license. See the accompanying [LICENSE](LICENSE) for
 
 ## 🤝 Contributing
 
-We welcome contributions! If you’d like to help improve or expand this project, feel free to open an issue or submit a pull request.
+We welcome 👩🏾‍💻👨🏾‍💻 additions! If you’d like to help improve or expand this project, feel free to open an issue or submit a pull request.
 
 ---
 
