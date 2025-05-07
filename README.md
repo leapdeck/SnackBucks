@@ -4,6 +4,10 @@ Compare local food prices with those around the world, giving you a global persp
 
 Stay ahead of the game, source smarter, and discover where your favorite ingredients are most affordable!
 
+<p align="center">
+  <img alt="SnackBucks" title="SnackBucks" src="screenshots/SnackBucksScroll1.gif" width=300>
+</p>
+
 ---
 
 ## 🚀 Key Features
