@@ -1,4 +1,4 @@
-# 🌍 SnackBucks : Global Food Price Comparison
+# 🍕🌍 SnackBucks : Global Food Price Comparison
 
 Compare local food prices with those around the world, giving you a global perspective on costs, sourcing opportunities, and value differences.
 
